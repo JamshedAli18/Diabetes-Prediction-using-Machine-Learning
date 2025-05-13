@@ -5,7 +5,7 @@ This project focuses on predicting diabetes using a machine learning model train
 
 ## Dataset
 - **Name**: [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
-- **Source**: Kaggle
+- **Source**: Kaggle 
 - **Description**: Contains 100,000 records with 9 columns (8 features + 1 target):
   - Features: `age`, `gender`, `bmi`, `hypertension`, `heart_disease`, `smoking_history`, `HbA1c_level`, `blood_glucose_level`
   - Target: `diabetes` (0: No, 1: Yes)
