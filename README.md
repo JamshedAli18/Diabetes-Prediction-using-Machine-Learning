@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on predicting diabetes using a machine learning model trained on the **Diabetes Prediction Dataset** from Kaggle. The project demonstrates a complete data science pipeline, including data exploration, visualization, preprocessing, and model training. A Random Forest Classifier is used to predict diabetes, achieving high accuracy and providing insights into key risk factors.
 
-## Dataset
+## Dataset 
 - **Name**: [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
 - **Source**: Kaggle 
 - **Description**: Contains 100,000 records with 9 columns (8 features + 1 target):
